@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Final_Assignment_App1</string>
+    <string name="channel_name">"Location Notifications"</string>
+    <string name="welcome_string">"Welcome"</string>
+    <string name="setting_button_and_Text">"Settings"</string>
+    <string name="sign_up_button_and_Text">Sign up</string>
+    <string name="log_in_button">"Log in"</string>
+    <string name="emailTextView" translatable="false">"Email"</string>
+    <string name="passwordTextView">"Password"</string>
+
+    <string name="successful_log_in">"You logged in!"</string>
+    <string name="successful_add_product_to_bag">"Added to your bag!"</string>
+    <string name="successful_shopping_bag_payment">"Paid!"</string>
+    <string name="something_went_wrong_message">"Something went wrong!"</string>
+    <string name="wrong_email_or_password_message">"Wrong email or password!</string>
+
+    <string name="SetEmail" translatable="false">"Email"</string>
+    <string name="SetFirstName">First Name</string>
+    <string name="SetLastName">Last Name</string>
+
+    <string name="show_shopping_bag_button">"Show shopping Bag"</string>
+    <string name="add_to_shopping_bag_button">"Add to shopping bag"</string>
+    <string name="shopping_bag_list">"Your shopping bag"</string>
+    <string name="shopping_bag_pay_button">"Pay your shopping bag"</string>
+    <string name="apply_button">"Apply"</string>
+    <string name="showProductList">"Available products: "</string>
+    <string name="showTotalPrice">"Total price is: "</string>
+
+    <string name="min_size">"Set Minimum Size"</string>
+    <string name="max_size">"Set Maximum Size"</string>
+    <string name="set_moccasin">"Set Color Moccasin"</string>
+    <string name="set_beige">"Set Color Beige"</string>
+
+    <string name="location_nearTitle">"One product is near you!"</string>
+    <string name="location_nearText">Product:</string>
+
+
+    <string name="TitleText">"Title:"</string>
+    <string name="DescriptionText">"Description:"</string>
+    <string name="StoreText">Store Location:</string>
+    <string name="PriceText">"Price:"</string>
+    <string name="ProductCodeText">"Product Code:"</string>
+    <string name="ReleaseDateText">"Release Date:"</string>
+
+    <string name="successfulShoppingBagPayment">"Shopping bag successfully paid"</string>
+    <string name="yourBagText">Your Shopping Bag</string>
+    <string name="goBackButtonText">Go Back</string>
+    <string name="setWallpaperBackgroundColorTextView">Set Wallpaper Color</string>
+    <string name="setTextSizeTextView">Set Text Size</string>
+    <string name="set_BlanchedAlmond">Set Color Blanched Almond</string>
+    <string name="locationButtonText">Location Service</string>
+    <string name="noProductText">No Products</string>
+    <string name="shoppingBagIsClearText">Your Shopping bag is now empty!</string>
+    <string name="okText" translatable="false">OK</string>
+    <string name="clearShoppingBag">Clear Shopping Bag</string>
+
+</resources>

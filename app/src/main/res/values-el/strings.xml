@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final_Assignment_App1</string>
+    <string name="channel_name">Ειδοποιήσεις Τοποθεσίας</string>
+    <string name="welcome_string">Καλώς ήρθες</string>
+    <string name="setting_button_and_Text">Ρυθμίσεις</string>
+    <string name="sign_up_button_and_Text">Εγγραφή</string>
+    <string name="log_in_button">Σύνδεση</string>
+    <string name="passwordTextView">Κωδικός</string>
+    <string name="successful_log_in">Συνδέθηκες!</string>
+    <string name="successful_add_product_to_bag">Προστέθηκε στο καλάθι!</string>
+    <string name="successful_shopping_bag_payment">Πληρώθηκε!</string>
+    <string name="something_went_wrong_message">Κάτι πήγε λάθος!</string>
+    <string name="wrong_email_or_password_message">Λάθος email ή κωδικός!</string>
+    <string name="SetFirstName">Όνομα</string>
+    <string name="SetLastName">Επώνυμο</string>
+    <string name="show_shopping_bag_button">Εμφάνιση καλαθιού</string>
+    <string name="add_to_shopping_bag_button">Προσθήκη στο καλάθι</string>
+    <string name="shopping_bag_list">Το καλάθι σου</string>
+    <string name="shopping_bag_pay_button">Πλήρωσε το καλάθι</string>
+    <string name="apply_button">Εφαρμογή</string>
+    <string name="showProductList">Διαθέσιμα προϊόντα:</string>
+    <string name="showTotalPrice">Το συνολικό ποσό είναι:</string>
+    <string name="min_size">Μικρό μέγεθος</string>
+    <string name="max_size">Μεγάλο μέγεθος</string>
+    <string name="set_moccasin">Όρισε ρώμα Moccasin</string>
+    <string name="set_beige">Όρισε χρώμα Μπεζ</string>
+    <string name="location_nearTitle">Ένα προϊόν είναι κοντά σου!</string>
+    <string name="location_nearText">Προϊόν:</string>
+    <string name="TitleText">Τίτλος:</string>
+    <string name="DescriptionText">Περιγραφή:</string>
+    <string name="StoreText">Τοποθεσία καταστήματος:</string>
+    <string name="PriceText">Τιμή:</string>
+    <string name="ProductCodeText">Κωδικός Προϊόντος:</string>
+    <string name="ReleaseDateText">Ημερομηνία Κυκλοφορίας:</string>
+    <string name="successfulShoppingBagPayment">Το καλάθι πληρώθηκε με επιτυχία!</string>
+    <string name="yourBagText">Το καλάθι των αγορών σου</string>
+    <string name="goBackButtonText">Πήγαινε Πίσω</string>
+    <string name="setWallpaperBackgroundColorTextView">Όρισε χρώμα Wallpaper</string>
+    <string name="setTextSizeTextView">Όρισε μέγεθος γραμματοσειράς</string>
+    <string name="set_BlanchedAlmond">Όρισε χρώμα BlanchedAlmond</string>
+    <string name="locationButtonText">Υπηρεσία Τοποθεσίας</string>
+    <string name="noProductText">Κανένα Προϊόν</string>
+    <string name="shoppingBagIsClearText">Το καλάθι αγορών σου είναι τώρα άδειο!</string>
+    <string name="clearShoppingBag">Εκκαθάριση καλαθιού αγορών</string>
+</resources>

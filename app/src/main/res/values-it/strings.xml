@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final_Assignment_App1</string>
+    <string name="channel_name">Notifiche sulla posizione</string>
+    <string name="welcome_string">Benvenuto</string>
+    <string name="setting_button_and_Text">Impostazioni</string>
+    <string name="sign_up_button_and_Text">Iscrizione</string>
+    <string name="log_in_button">Log in</string>
+    <string name="passwordTextView">Password</string>
+    <string name="successful_log_in">Hai effettuato l\'accesso!</string>
+    <string name="successful_add_product_to_bag">Aggiunto al carrello!</string>
+    <string name="successful_shopping_bag_payment">È stato pagato!</string>
+    <string name="something_went_wrong_message">Qualcosa è andato storto!</string>
+    <string name="wrong_email_or_password_message">E-mail o password errate!</string>
+    <string name="SetFirstName">Nome di battesimo</string>
+    <string name="SetLastName">Cognome</string>
+    <string name="show_shopping_bag_button">Mostra la borsa della spesa</string>
+    <string name="add_to_shopping_bag_button">Aggiungi al carrello</string>
+    <string name="shopping_bag_list">La tua borsa della spesa</string>
+    <string name="shopping_bag_pay_button">Paga la tua borsa della spesa</string>
+    <string name="apply_button">Fare domanda a</string>
+    <string name="showProductList">Prodotti disponibili</string>
+    <string name="showTotalPrice">Il prezzo totale è:</string>
+    <string name="min_size">Imposta la dimensione minima</string>
+    <string name="max_size">Imposta la dimensione massima</string>
+    <string name="set_beige">Imposta il colore Beige</string>
+    <string name="location_nearTitle">Un prodotto è vicino a te!</string>
+    <string name="location_nearText">Prodotto:</string>
+    <string name="TitleText">Titolo:</string>
+    <string name="DescriptionText">Descrizione:</string>
+    <string name="StoreText">Posizione del negozio:</string>
+    <string name="PriceText">Prezzo:</string>
+    <string name="ProductCodeText">Codice prodotto:</string>
+    <string name="ReleaseDateText">Data di rilascio:</string>
+    <string name="set_moccasin">Imposta colore mocassino</string>
+    <string name="successfulShoppingBagPayment">Carrello pagato con successo!</string>
+    <string name="yourBagText">La tua borsa della spesa</string>
+    <string name="goBackButtonText">Torna indietro</string>
+    <string name="setWallpaperBackgroundColorTextView">Imposta il colore dello sfondo</string>
+    <string name="setTextSizeTextView">Imposta la dimensione del testo</string>
+    <string name="set_BlanchedAlmond">Imposta colore Mandorla sbiancata</string>
+    <string name="locationButtonText">Servizio di localizzazione</string>
+    <string name="noProductText">Nessun prodotto</string>
+    <string name="shoppingBagIsClearText">Il tuo carrello è ora vuoto!</string>
+    <string name="clearShoppingBag">Svuotamento del carrello</string>
+</resources>
