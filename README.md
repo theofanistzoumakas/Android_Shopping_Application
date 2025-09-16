@@ -35,6 +35,35 @@ Before building and running this application, ensure you have the following:
  - OPTIONALLY an Android device (min SDK version 31 -> Android version 12).
 
 
+## 📦 Installation
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/theofanistzoumakas/Android_Shopping_Application.git
+cd Android_Shopping_Application
+```
+
+2. Open the project on Android Studio.
+3. Create a new Firebase project.
+4. Enable and connect your Firebase project's authentication and database features.
+5. In your Firebase project's database, create a collection with the following sub-collections:
+   - App1Orders
+   - App1Products
+   - App1Users
+   In field App1Products, for each product you wish to add, add a collection.
+   For each product’s collection, add the following fields:
+   - App1ProductCode -> number ( must be a counter - first product has code number one, second product has code number two)
+   - App1ProductDescription -> string
+   - App1ProductImage -> string
+   - App1ProductPrice ->  number
+   - App1ProductReleaseDate -> number
+   - App1ProductStore -> string (this are coordinates)
+   - App1ProductTitle -> string
+6. Connect an android device (min SDK version 31 -> Android version 12) or open an Android Studio’s emulator to run the project.
+7. Run the project on Android Studio.
+
+
 ## 🔒 Code Ownership & Usage Terms
 This project was created and maintained by:
 
