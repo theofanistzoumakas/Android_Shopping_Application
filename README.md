@@ -51,6 +51,7 @@ cd Android_Shopping_Application
    - App1Orders
    - App1Products
    - App1Users
+   
    In field App1Products, for each product you wish to add, add a collection.
    For each product’s collection, add the following fields:
    - App1ProductCode -> number ( must be a counter - first product has code number one, second product has code number two)
