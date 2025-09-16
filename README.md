@@ -53,6 +53,7 @@ cd Android_Shopping_Application
    - App1Users
    
    In field App1Products, for each product you wish to add, add a collection.
+   
    For each product’s collection, add the following fields:
    - App1ProductCode -> number ( must be a counter - first product has code number one, second product has code number two)
    - App1ProductDescription -> string
@@ -61,8 +62,8 @@ cd Android_Shopping_Application
    - App1ProductReleaseDate -> number
    - App1ProductStore -> string (this are coordinates)
    - App1ProductTitle -> string
-6. Connect an android device (min SDK version 31 -> Android version 12) or open an Android Studio’s emulator to run the project.
-7. Run the project on Android Studio.
+7. Connect an android device (min SDK version 31 -> Android version 12) or open an Android Studio’s emulator to run the project.
+8. Run the project on Android Studio.
 
 
 ## 🔒 Code Ownership & Usage Terms
