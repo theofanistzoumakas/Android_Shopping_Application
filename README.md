@@ -25,7 +25,7 @@ UnipiPLIShopping is an Android application that that allows users to view and pu
  - Firebase for Database, Authentication and Registration.
  - XML for the UI and the application’s system settings.
 
-🎯Purpose.
+## 🎯Purpose.
 This application was created to provide a nice and easy-to-use experience to users who want to browse and purchase store products from an online platform, as well as be notified if they are within close proximity to a store that carries any of the application's products. **This application is developed solely for academic and research purposes**.
 
 ## 🧰Prerequisites.
