@@ -1,5 +1,8 @@
 ## 🛍️Android Shopping Application.
-A mobile application for product search and purchase - built and designed for Greek e-shops.
+A mobile application for product search and purchase - built and designed for e-shops.
+
+> ℹ️ This project is not open source and does not grant any usage rights.
+> For usage terms and legal information, see [Code Ownership & Usage Terms](#-code-ownership--usage-terms).
 
 ## 📕Overview
 UnipiPLIShopping is an Android application that that allows users to view and purchase products from an e-shop easily and simply, with just a few taps of the finger. It is also notifies users if they are within close proximity to a store that carries any of the application's products
